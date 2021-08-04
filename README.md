@@ -1,7 +1,6 @@
 # 리액트 UI 구현 리스트
 
 - [ ] Tab
-- [ ] Toggle Button
 - [ ] Dark Mode
 - [ ] Form
 - [ ] Drop Down
@@ -17,7 +16,9 @@
 
 ## 구현 완료 목록
 
-[Tab > intae](./01.Tab/intae/README.md)
+- [01. Tab > intae](./01.Tab/intae/README.md)
+
+- [02. darkmode > intae](./02.darkmode/intae/README.md)
 
 ## 커밋 메세지 가이드
 

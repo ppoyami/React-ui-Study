@@ -1,8 +1,9 @@
+import * as S from './App.styled';
 function App() {
   return (
-    <div>
+    <S.Layout>
       <h1>헬로 월드!</h1>
-    </div>
+    </S.Layout>
   );
 }
 
