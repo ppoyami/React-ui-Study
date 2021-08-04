@@ -1,6 +1,6 @@
 # 리액트 UI 구현
 
-- [ 김인태 ] Tab
+- [ ] Tab
 - [ ] Toggle Button
 - [ ] Dark Mode
 - [ ] Form
