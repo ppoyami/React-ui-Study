@@ -2,7 +2,7 @@ import React from 'react';
 
 import * as S from './ToggleBtn.styled';
 import { useTheme } from '../../context';
-import { DARK, LIGHT } from '../../constants';
+import { LIGHT } from '../../constants';
 
 export default function ToggleBtn() {
   const { mode, onToggle } = useTheme();
