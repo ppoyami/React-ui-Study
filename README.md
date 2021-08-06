@@ -24,6 +24,8 @@
 
 - [04. selection > intae](./04.Selection/intae/README.md)
 
+- [05. modal > intae](./05.modal/intae/README.md)
+
 ## 커밋 메세지 가이드
 
 - `feat`: 새로운 기능 추가
