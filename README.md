@@ -26,6 +26,8 @@
 
 - [05. modal > intae](./05.modal/intae/README.md)
 
+- [06. infinite Scroll > intae](./06.infinite-scroll/intae/README.md)
+
 ## 커밋 메세지 가이드
 
 - `feat`: 새로운 기능 추가
