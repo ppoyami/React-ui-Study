@@ -30,6 +30,8 @@
 
 - [07. Scroll Spy > intae](./07.scrollSpy/intae/README.md)
 
+- [08. Sidebar Menu > intae](./08.sidebar-nav/intae/README.md)
+
 ## 커밋 메세지 가이드
 
 - `feat`: 새로운 기능 추가
