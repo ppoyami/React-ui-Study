@@ -67,31 +67,38 @@
 
 - [ ] Tab
 - [ ] Dark Mode
-- [ ] Form
 - [ ] Drop Down
 - [ ] Selection
-- [ ] Sidebar Menu
 - [ ] Modal
-- [ ] Carousel
-- [ ] Scroll Spy
 - [ ] Infinite Scroll
-- [ ] Rating UI
+- [ ] Scroll Spy
+- [ ] Sidebar Menu
 - [ ] Banner
 - [ ] Navigation
+- [ ] Rating UI
 - [ ] Slider
+- [ ] Search Form
+- [ ] Form(Validator)
+- [ ] Carousel
 
 ## 🗓 진도표
 
 :white_check_mark: 를 클릭하면, README로 이동합니다.
 
-### Intae's progress
-
-|                          Tab                           |                      Dark Mode                      |                      Drop Down                      |                      Selection                       |                      Modal                       |                      Infinite Scroll                       |                      Scroll Spy                      |
-| :----------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------: |
-|     [:white_check_mark:](./01.Tab/intae/README.md)     | [:white_check_mark:](./02.darkmode/intae/README.md) | [:white_check_mark:](./03.dropdown/intae/README.md) | [:white_check_mark:](./04.Selection/intae/README.md) | [:white_check_mark:](./05.modal/intae/README.md) | [:white_check_mark:](./06.infinite-scroll/intae/README.md) | [:white_check_mark:](./07.scrollSpy/intae/README.md) |
-|                      Sidebar Menu                      |                       Banner                        |                       Banner                        |                      Rating UI                       |                     Carousel                     |                            Form                            |                        Slider                        |
-| [:white_check_mark:](./08.sidebar-nav/intae/README.md) |                                                     |                                                     |                                                      |                                                  |                                                            |                                                      |
-
-```
-
-```
+| UI / Name        | Intae                                                      |     |     |     |
+| ---------------- | ---------------------------------------------------------- | --- | --- | --- |
+| Tab              | [:white_check_mark:](./01.Tab/intae/README.md)             |     |     |     |
+| Dark Mode        | [:white_check_mark:](./02.darkmode/intae/README.md)        |     |     |     |
+| Drop Down        | [:white_check_mark:](./03.dropdown/intae/README.md)        |     |     |     |
+| Selection        | [:white_check_mark:](./04.Selection/intae/README.md)       |     |     |     |
+| Modal            | [:white_check_mark:](./05.modal/intae/README.md)           |     |     |     |
+| Infinite Scroll  | [:white_check_mark:](./06.infinite-scroll/intae/README.md) |     |     |     |
+| Scroll Spy       | [:white_check_mark:](./07.scrollSpy/intae/README.md)       |     |     |     |
+| Sidebar Menu     | [:white_check_mark:](./08.sidebar-nav/intae/README.md)     |     |     |     |
+| Banner           |                                                            |     |     |     |
+| Navigation       |                                                            |     |     |     |
+| Rating UI        |                                                            |     |     |     |
+| Slider           |                                                            |     |     |     |
+| Search Form      |                                                            |     |     |     |
+| Form (validator) |                                                            |     |     |     |
+| Carousel         |                                                            |     |     |     |
