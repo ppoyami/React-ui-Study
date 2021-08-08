@@ -73,7 +73,7 @@
 - [ ] Infinite Scroll
 - [ ] Scroll Spy
 - [ ] Sidebar Menu
-- [ ] Banner
+- [ ] Notistack
 - [ ] Navigation
 - [ ] Rating UI
 - [ ] Slider
@@ -95,7 +95,7 @@
 | Infinite Scroll  | [:white_check_mark:](./06.infinite-scroll/intae/README.md) |     |     |     |
 | Scroll Spy       | [:white_check_mark:](./07.scrollSpy/intae/README.md)       |     |     |     |
 | Sidebar Menu     | [:white_check_mark:](./08.sidebar-nav/intae/README.md)     |     |     |     |
-| Banner           |                                                            |     |     |     |
+| Notistack        | [:white_check_mark:](./09.notistack/intae/README.md)       |     |     |     |
 | Navigation       |                                                            |     |     |     |
 | Rating UI        |                                                            |     |     |     |
 | Slider           |                                                            |     |     |     |
