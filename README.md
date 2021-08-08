@@ -85,20 +85,20 @@
 
 :white_check_mark: 를 클릭하면, README로 이동합니다.
 
-| UI / Name        | Intae                                                      |     |     |     |
-| ---------------- | ---------------------------------------------------------- | --- | --- | --- |
-| Tab              | [:white_check_mark:](./01.Tab/intae/README.md)             |     |     |     |
-| Dark Mode        | [:white_check_mark:](./02.darkmode/intae/README.md)        |     |     |     |
-| Drop Down        | [:white_check_mark:](./03.dropdown/intae/README.md)        |     |     |     |
-| Selection        | [:white_check_mark:](./04.Selection/intae/README.md)       |     |     |     |
-| Modal            | [:white_check_mark:](./05.modal/intae/README.md)           |     |     |     |
-| Infinite Scroll  | [:white_check_mark:](./06.infinite-scroll/intae/README.md) |     |     |     |
-| Scroll Spy       | [:white_check_mark:](./07.scrollSpy/intae/README.md)       |     |     |     |
-| Sidebar Menu     | [:white_check_mark:](./08.sidebar-nav/intae/README.md)     |     |     |     |
-| Notistack        | [:white_check_mark:](./09.notistack/intae/README.md)       |     |     |     |
-| Navigation       |                                                            |     |     |     |
-| Rating UI        |                                                            |     |     |     |
-| Slider           |                                                            |     |     |     |
-| Search Form      |                                                            |     |     |     |
-| Form (validator) |                                                            |     |     |     |
-| Carousel         |                                                            |     |     |     |
+| UI / Name        | Intae                                                      | Seongjun                                          |     |     |
+| ---------------- | ---------------------------------------------------------- | ------------------------------------------------- | --- | --- |
+| Tab              | [:white_check_mark:](./01.Tab/intae/README.md)             | [:white_check_mark:](./01.Tab/seongjun/README.md) |     |     |
+| Dark Mode        | [:white_check_mark:](./02.darkmode/intae/README.md)        |                                                   |     |     |
+| Drop Down        | [:white_check_mark:](./03.dropdown/intae/README.md)        |                                                   |     |     |
+| Selection        | [:white_check_mark:](./04.Selection/intae/README.md)       |                                                   |     |     |
+| Modal            | [:white_check_mark:](./05.modal/intae/README.md)           |                                                   |     |     |
+| Infinite Scroll  | [:white_check_mark:](./06.infinite-scroll/intae/README.md) |                                                   |     |     |
+| Scroll Spy       | [:white_check_mark:](./07.scrollSpy/intae/README.md)       |                                                   |     |     |
+| Sidebar Menu     | [:white_check_mark:](./08.sidebar-nav/intae/README.md)     |                                                   |     |     |
+| Notistack        | [:white_check_mark:](./09.notistack/intae/README.md)       |                                                   |     |     |
+| Navigation       |                                                            |                                                   |     |     |
+| Rating UI        |                                                            |                                                   |     |     |
+| Slider           |                                                            |                                                   |     |     |
+| Search Form      |                                                            |                                                   |     |     |
+| Form (validator) |                                                            |                                                   |     |     |
+| Carousel         |                                                            |                                                   |     |     |
