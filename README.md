@@ -42,9 +42,28 @@
 
 - **Pull Request 전,** **자신이 fork한 저장소의 커밋 내역을** `원격 저장소의 최신 커밋`으로 `fetch & merge` 한 이후에 진행 부탁드립니다.
   - 최신 커밋으로 `fetch & merge` 하는 방법은 [여기](https://chanhuiseok.github.io/posts/git-2/)를 참고해 주세요!
+
+### Fetch & Merge 순서 참고 가이드
+
+#### remote 저장소 등록 과정(최초 1회)
+
+- `$ git remote -v`: 입력 후 원격 저장소 등록여부 확인
+- `$ git remote add upstream https://github.com/scvd03/React-ui-Study.git`: 원격 저장소를 등록하기 위해 다음 명령어를 입력
+
+#### 원격 저장소에서 최신 커밋 내역 가져오기
+
+- `$ git remote -v`: upstream 이라는 이름으로 위에서 등록한 저장소가 결과에 나오는지 확인
+- `$ git checkout master`: 로컬 저장소의 master 브랜치로 변경
+- `$ git fetch upstream`: upstream 에 반영된 최신 업데이트 사항 가져오기
+- `$ git merge upstream/master`: 업데이트 사항을 가져온 후 master와 병합
+- `$ git push origin master(main)`: 변경사항 나의 fork 저장소에 최종 반영
+<p></p>
+  
 - 이후, **Pull Request(PR)를 하는 방법**은 [여기](https://chanhuiseok.github.io/posts/git-3/)를 참고해 주세요!
   - 위의 링크에 나온 방법 중 `5. 코드 수정`을 하는 부분에서는,
   - **각 UI 폴더 내부에 본인 이름 혹은 github ID로 된 폴더를 만드시고**, 그 안에서 `create-react-app .` 으로 프로젝트를 생성하시면 됩니다.
+
+---
 
 ### 커밋 메세지 가이드
 
