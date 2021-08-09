@@ -113,7 +113,7 @@
 | UI / Name        | Intae                                                      | Seongjun                                          |     |     |
 | ---------------- | ---------------------------------------------------------- | ------------------------------------------------- | --- | --- |
 | Tab              | [:white_check_mark:](./01.Tab/intae/README.md)             | [:white_check_mark:](./01.Tab/seongjun/README.md) |     |     |
-| Dark Mode        | [:white_check_mark:](./02.darkmode/intae/README.md)        |                                                   |     |     |
+| Dark Mode        | [:white_check_mark:](./02.darkmode/intae/README.md)        | [:white_check_mark:](./02.darkmode/seongjun/README.md)                                                  |     |     |
 | Drop Down        | [:white_check_mark:](./03.dropdown/intae/README.md)        |                                                   |     |     |
 | Selection        | [:white_check_mark:](./04.Selection/intae/README.md)       |                                                   |     |     |
 | Modal            | [:white_check_mark:](./05.modal/intae/README.md)           |                                                   |     |     |
