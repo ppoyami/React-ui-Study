@@ -59,6 +59,7 @@
 - `$ git fetch upstream`: upstream 에 반영된 최신 업데이트 사항 가져오기
 - `$ git merge upstream/master`: 업데이트 사항을 가져온 후 master와 병합
 - `$ git push origin master(main)`: 변경사항 나의 fork 저장소에 최종 반영
+<p></p>
 
 - 이후, **Pull Request(PR)를 하는 방법**은 [여기](https://chanhuiseok.github.io/posts/git-3/)를 참고해 주세요!
   - 위의 링크에 나온 방법 중 `5. 코드 수정`을 하는 부분에서는,
