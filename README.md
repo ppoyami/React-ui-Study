@@ -124,6 +124,6 @@
 | Navigation       |                                                            |                                                   |     |     |
 | Rating UI        |                                                            |                                                   |     |     |
 | Slider           |                                                            |                                                   |     |     |
-| Search Form      |                                                            |                                                   |     |     |
+| Search Form      | [:white_check_mark:](./10.searchForm/intae/README.md)      |                                                   |     |     |
 | Form (validator) |                                                            |                                                   |     |     |
 | Carousel         |                                                            |                                                   |     |     |
